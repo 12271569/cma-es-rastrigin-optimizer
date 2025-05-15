@@ -10,7 +10,7 @@ To apply CMA-ES to a multi-modal function (Rastrigin) and analyze the convergenc
 
 | File | Description |
 |------|-------------|
-| `COIT29224_cma_es_rastrigin 2nd.py` | Final Python implementation with modular class and plotting |
+| `COIT29224_cma_es_rastrigin.py` | Final Python implementation with modular class and plotting |
 | `convergence_graph.png` | Full convergence plot (Gen 0–200) |
 | `early_convergence_graph.png` | Zoomed convergence (Gen 0–30) |
 | `fitness_trajectory_scatter.png` | Scatter plot of best fitness values |
