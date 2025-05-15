@@ -21,8 +21,9 @@ To apply CMA-ES to a multi-modal function (Rastrigin) and analyze the convergenc
    ```bash
    pip install numpy matplotlib
 2. Run the file:
-   python "COIT29224_cma_es_rastrigin.py"
-3. Output:
+   ```bash
+   python COIT29224_cma_es_rastrigin.py
+4. Output:
 The final solution vector and fitness will be printed in the terminal
 Graphs will be saved in the same folder
 
